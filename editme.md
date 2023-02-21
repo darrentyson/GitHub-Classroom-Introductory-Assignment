@@ -1,3 +1,3 @@
 _Write a question for your teacher below._
 
-Q: 
+Q: How can I activate Sandbox?
